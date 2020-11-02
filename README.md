@@ -1,3 +1,7 @@
+## ScreenShots
+
+<img src="Screenshots/2.PNG" width="600" /><img src="Screenshots/6.PNG" width="600" /><img src="Screenshots/5.PNG" width="600" /><br>
+<img src="Screenshots/4.PNG" width="300" /><img src="Screenshots/3.PNG" width="300" /><img src="Screenshots/1.PNG" width="300" /><br><br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
