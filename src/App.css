@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@400;500;700&family=Poppins:wght@300;400;500;600;700&display=swap');
+:root {
+    --primaryColor: #5fb7ea;
+    --primaryRGBA: rgba(0, 0, 0, 0.3);
+    --redColor: #f6463d;
+    --mainGrey: #fafafa;
+    --darkGrey: #5f5e5e;
+    --mainWhite: #fff;
+    --mainBlack: #222;
+    --mainTransition: all 0.3s ease-in-out;
+    --mainSpacing: 0px;
+}
+
+.text-title {
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    letter-spacing: var(--mainSpacing);
+    text-transform: capitalize;
+}
+
+.text-main {
+    color: var(--redColor);
+}
+
+body {
+    font-family: "Poppins", sans-serif !important;
+    background: var(--mainWhite) !important;
+    color: var(--mainBlack);
+}
